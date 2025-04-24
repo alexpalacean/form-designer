@@ -15,6 +15,7 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
+      "@form-designer/form-canvas": ["libs/form-canvas/src/index.ts"],
       "@form-designer/form-elements": ["libs/form-elements/src/index.ts"]
     }
   },
